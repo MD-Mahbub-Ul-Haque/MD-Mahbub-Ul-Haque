@@ -35,4 +35,4 @@ Modify pages content in  `src/content_option.js`.
 
 ### Thanks
 
-Re designed by Md. Mahbub Ul Haque 
+Redesigned by Md. Mahbub Ul Haque 
